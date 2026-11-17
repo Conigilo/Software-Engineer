@@ -1,0 +1,11 @@
+{
+  "name": "emod-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "E-MOD University Activity Management System (React Native Web + ElysiaJS + Bun SQLite)",
+  "scripts": {
+    "dev:backend": "cd backend && bun run dev",
+    "dev:frontend": "cd frontend && bun run dev",
+    "build:frontend": "cd frontend && bun run build"
+  }
+}

@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+dist/
+**/dist/
+build/
+**/build/
+.expo/
+**/.expo/
+
+# SQLite temporary WAL/SHM files
+*.sqlite-wal
+*.sqlite-shm
+
+# Environment & OS files
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log

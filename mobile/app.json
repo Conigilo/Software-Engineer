@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "E-MOD",
+    "slug": "e-mod",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFF8EF"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "th.ac.kmutt.emod"
+    },
+    "android": {
+      "package": "th.ac.kmutt.emod",
+      "adaptiveIcon": {
+        "backgroundColor": "#F97316"
+      }
+    },
+    "platforms": ["ios", "android", "web"]
+  }
+}

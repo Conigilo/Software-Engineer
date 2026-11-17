@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "E-MOD",
+    "slug": "e-mod-kmutt",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
